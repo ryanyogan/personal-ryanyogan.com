@@ -1,16 +1,16 @@
 export const metaData = {
   baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "Nextfolio",
-  name: "Sirius",
+  title: "Ryan Yogan",
+  name: "Ryan Yogan",
   ogImage: "/opengraph-image.png",
   description:
     "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  twitter: "https://x.com/ryanyogan",
+  github: "https://github.com/ryanyogan",
+  instagram: "https://www.instagram.com/ryanyogan",
+  linkedin: "https://www.linkedin.com/in/ryanyogan",
+  email: "mailto:ryanyogan@gmail.com",
 };
